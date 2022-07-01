@@ -1,0 +1,15 @@
+.form_type_enter {
+    height: 330px;
+}
+
+@media screen and (max-width: 768px) {
+    .form_type_enter {
+        width: 425px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .form_type_enter {
+        width: 310px;
+    }
+}

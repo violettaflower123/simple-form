@@ -1,0 +1,22 @@
+.form__title {
+    font-family: 'Inter-400', sans-serif, Arial;
+    font-size: 48px;
+    line-height: 58.09px;
+    color: #777777;
+    margin: 10px 0;
+    font-weight: normal;
+}
+
+@media screen and (max-width: 768px) {
+    .form__title {
+        font-size: 35px;
+        line-height: 36px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .form__title {
+        font-size: 25px;
+        line-height: 26px;
+    }
+}

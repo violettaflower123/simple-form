@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "version": "1.0.1",
+    "description": "My test app",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+        "imask": "^6.4.2",
+        "inputmask": "^5.0.8-beta.17"
+    }
+}

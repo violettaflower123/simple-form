@@ -1,0 +1,19 @@
+.form__button_submit {
+    width: 344px;
+    margin-top: 48px;
+}
+
+@media screen and (max-width: 768px) {
+    .form__button_submit {
+        width: 150px;
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .form__button_submit {
+        width: 100px;
+        margin-top: 20px;
+        font-size: 19px;
+    }
+}
